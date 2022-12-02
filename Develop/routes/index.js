@@ -9,8 +9,8 @@ const htmlRouter = require('./htmlRoutes');
 router.use('/api/notes', notesRouter);
 router.use('/', htmlRouter);
 
-router.get('/*', (req, res) =>
-  res.sendFile(path.join(__dirname, './public/index.html'))
-);
+// router.get('/*', (req, res) =>
+//   res.sendFile('index.html')
+// );
 
 module.exports = router;
