@@ -12,7 +12,7 @@ router.get("/notes", (req, res) => {
   res.json(saved);
 });
 
-router.post("/notes/create", (req, res) => {
+router.post("/notes", (req, res) => {
   req.body.id = notes.length.toString();
   let note = noteCreateNewNote(req.body, notes);
   res.json(note);
