@@ -1,17 +1,17 @@
 [
-    {
-        "id": "1",
-        "title":"Shopping List",
-        "text":"Bread, Milk, Eggs"
-    },
-    {
-        "id": "2",
-        "title":"Christmas List",
-        "text":"Xbox"
-    },
-    {
-        "id": "3",
-        "title":"TODO",
-        "text":"Get a job"
-    }
+  {
+    "id": "1",
+    "title": "Shopping List",
+    "text": "Bread, Milk, Eggs"
+  },
+  {
+    "id": "2",
+    "title": "Christmas List",
+    "text": "Xbox"
+  },
+  {
+    "id": "3",
+    "title": "TODO",
+    "text": "Get a job"
+  }
 ]
