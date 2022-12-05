@@ -27,11 +27,11 @@ function noteDeleteNote(noteTakerArray, id) {
 
   fs.writeFileSync(
     path.join(__dirname, "../db/db.json"),
-    JSON.stringify({notes: noteTakerArray}, null 2)
-  )
+    JSON.stringify({ notes: noteTakerArray }, null, 2)
+  );
 }
 
 module.exports = {
   noteCreateNewNote,
-  noteDeleteNote
+  noteDeleteNote,
 };
