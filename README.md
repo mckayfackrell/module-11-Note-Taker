@@ -3,7 +3,11 @@
 
 An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-## URL and Gif
+## URL and Screenshots
+https://mckay-module-11-note-taker.herokuapp.com/notes
+<img width="953" alt="Screenshot 2022-12-05 at 18 05 19" src="https://user-images.githubusercontent.com/110206514/205782793-52e72ee6-9990-498e-8b92-7bf467107f67.png">
+<img width="953" alt="Screenshot 2022-12-05 at 18 05 19" src="https://user-images.githubusercontent.com/110206514/205783094-b867fd16-0cfd-425e-b253-c654041d4839.png">
+
 
 ## Usage
 
