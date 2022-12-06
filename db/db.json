@@ -7,21 +7,16 @@
     },
     {
       "id": "1",
-      "title": "Test",
-      "text": "this is a test"
-    },
-    {
-      "id": "2",
       "title": "groceries",
       "text": "wood glue"
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "TODO",
       "text": "finish homework"
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "colors",
       "text": "blue, green, yellow"
     }

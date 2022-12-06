@@ -1,13 +1,13 @@
 const router = require("express").Router();
 
 // history of notes stored as json in db folder
-const { notes } = require("../../db/db");
+const { notes } = require("../../db/db.json");
 
 // importing the functions for deleting and creating notes
 const {
   noteCreateNewNote,
   noteDeleteNote,
-} = require("../../lib/noteFunctions.js");
+} = require("../../lib/noteFunctions");
 
 // req object represents the HTTP request, has properties for the request query string, params etc. 
 // res object represents the HTTP response that an Express app sends when it gets an HTTP request
